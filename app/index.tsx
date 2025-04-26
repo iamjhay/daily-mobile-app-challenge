@@ -8,6 +8,7 @@ import {
 } from "react-native";
 import Day001LoginScreen from "@/challenges/day-001-login-screen/screen";
 import Day002ForgetPasswordScreen from "@/challenges/day-002-forget-password-screen";
+import Day003ConfirmPasswordScreen from "@/challenges/day-003-confirm-code-screen";
 
 // Your screens
 const screens = [
@@ -17,7 +18,11 @@ const screens = [
     name: "Forgot Password Screen",
     component: Day002ForgetPasswordScreen,
   },
-  // add more here later
+  {
+    day: "Day 003",
+    name: "Confirmation Code Screen",
+    component: Day003ConfirmPasswordScreen,
+  },
 ];
 
 function AppContent() {
