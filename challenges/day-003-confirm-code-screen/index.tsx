@@ -10,13 +10,13 @@ import {
   Alert,
 } from "react-native";
 import MaterialCommunityIcons from "@expo/vector-icons/MaterialCommunityIcons";
-import { useRouter } from "expo-router";
+import useScreen from "@/app/context/AppContext";
 
 const INPUT_OFFSET = 50;
 const BUTTON_COLOR = "#0469ff";
 
 export default function Day003ConfirmPasswordScreen() {
-  const router = useRouter();
+  const { setSelectedScreen } = useScreen();
   const [formData, setFormData] = useState({
     code: "",
   });
@@ -65,7 +65,7 @@ export default function Day003ConfirmPasswordScreen() {
       [
         {
           text: "OK",
-          onPress: () => router.replace("/"), // Navigate back to forgot password screen
+          onPress: () => setSelectedScreen(null), // Navigate back to forgot password screen
         },
       ]
     );
@@ -82,7 +82,7 @@ export default function Day003ConfirmPasswordScreen() {
   return (
     <SafeAreaView style={{ flex: 1, backgroundColor: "#ebf3fa" }}>
       <View style={styles.container}>
-        <TouchableOpacity onPress={() => router.back()}>
+        <TouchableOpacity onPress={() => setSelectedScreen(null)}>
           <MaterialCommunityIcons
             color="#000"
             name="chevron-left"
