@@ -16,8 +16,8 @@ A simple and modern forget password form allows users to request a new password 
 
 ### 📸 Screenshot
 
-<div align="left">
-  <img height="500" src="https://imagedelivery.net/_QLyhNQIk5K6p8kNrFQcIA/6453a44e-4cc7-4bd4-3b64-a95eab039100/public"  />
+<div align="center">
+  <img height="700" src="./screenshot-forget-password.png"  />
 </div>
 
 **Tools:** React Native, Expo

@@ -17,7 +17,7 @@ A simple and modern sign-in form that allows users to verify their account using
 ### 📸 Screenshot
 
 <div align="center">
-    <img height="500" src="https://imagedelivery.net/_QLyhNQIk5K6p8kNrFQcIA/1e675f68-92b0-4661-1d96-9aacf0d44000/public"  />
+    <img height="700" src="./screenshot-confirmation_form.avif"  />
 </div>
 
 **Tools:** React Native, Expo
