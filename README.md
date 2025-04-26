@@ -1,50 +1,37 @@
-# Welcome to your Expo app 👋
+# 📱 Daily Mobile App Challenge
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Welcome!  
+This is my personal daily challenge to design and build mobile app screens using **React Native** and **Expo**.
 
-## Get started
+Every day, I create a new mobile UI, sharpen my skills, and push the limits of beautiful and functional mobile design.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 🚀 Goals
+- 🎨 Practice crafting beautiful and responsive UI/UX.
+- ⚡ Build mobile screens faster and cleaner.
+- 📈 Improve mobile app development skills daily.
+- 📚 Document the journey professionally.
 
-2. Start the app
+---
 
-   ```bash
-    npx expo start
-   ```
+## 🗂️ Challenge List
 
-In the output, you'll find options to open the app in a
+| Day  | Title                  | Preview |
+|:---:|:-----------------------:|:-------:|
+| 001 | Login Screen             | ![Login Screen](./challenges/day-001-login-screen/screenshot-sign-in-form-with-phone-number.avif) |
+| 002 | Forgot Password Screen   | ![Forgot Password](./challenges/day-002-forgot-password-screen/design.png) |
+| 003 | Confirm Code Screen      | ![Confirm Code](./challenges/day-003-confirm-code-screen/design.png) |
+| 004 | Coming Soon...           |  |
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🛠️ Tech Stack
+- React Native (Expo)
+- TailwindCSS (optional, via `nativewind`)
+- Figma (for design references)
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## 📂 Folder Structure
 
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
