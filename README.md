@@ -16,9 +16,9 @@ Each day I create a new mobile app screen using React Native / Expo.
 
 | Day | Title | Preview |
 | :-: | :-- | :-: |
-| 001 | Login Screen | <img src="./challenges/day-001-login-screen/screenshot-sign-in-form-with-phone-number.avif" width="200"/> |
-| 002 | Forgot Password Screen | <img src="./challenges/day-002-forget-password-screen/screenshot-forget-password.png" width="200"/> |
-| 003 | Confirm Code Screen | <img src="./challenges/day-003-confirm-code-screen/screenshot-confirmation_form.avif" width="200"/> |
+| 001 | Login Screen | <img src="./challenges/day-001-login-screen/screenshot-sign-in-form-with-phone-number.avif" width="100"/> |
+| 002 | Forgot Password Screen | <img src="./challenges/day-002-forget-password-screen/screenshot-forget-password.png" width="100"/> |
+| 003 | Confirm Code Screen | <img src="./challenges/day-003-confirm-code-screen/screenshot-confirmation_form.avif" width="100"/> |
 
 ---
 
