@@ -35,8 +35,8 @@ Each day I create a new mobile app screen using React Native / Expo.
 
 ## 📌 Folder Structure
 - `challenges/day-xxx-title/`
-  - `App.js` — Source code
-  - `design.png` — Screenshot of the design
+  - `index.sx` — Source code
+  - `screenshot-xxx.png` — Screenshot of the design
   - `README.md` — Notes for the day
 
 ---
