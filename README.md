@@ -14,9 +14,7 @@ Each day I create a new mobile app screen using React Native / Expo.
 
 ## 🗂️ Challenge List
 
-# 📱 Challenge List
-
-<div align="center">
+<div align="center" width="100%">
   <table>
     <thead>
       <tr>
