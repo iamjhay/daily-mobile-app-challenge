@@ -1,37 +1,41 @@
 # 📱 Daily Mobile App Challenge
 
-Welcome!  
-This is my personal daily challenge to design and build mobile app screens using **React Native** and **Expo**.
-
-Every day, I create a new mobile UI, sharpen my skills, and push the limits of beautiful and functional mobile design.
+Welcome! This is my daily mobile design and coding challenge.  
+Each day I create a new mobile app screen using React Native / Expo.
 
 ---
 
 ## 🚀 Goals
-- 🎨 Practice crafting beautiful and responsive UI/UX.
-- ⚡ Build mobile screens faster and cleaner.
-- 📈 Improve mobile app development skills daily.
-- 📚 Document the journey professionally.
+- Practice building beautiful UI/UX designs.
+- Build faster and cleaner mobile layouts.
+- Improve mobile development skills daily.
 
 ---
 
 ## 🗂️ Challenge List
 
-| Day  | Title                  | Preview |
-|:---:|:-----------------------:|:-------:|
-| 001 | Login Screen             | <div align="center"><img src="./challenges/day-001-login-screen/screenshot-sign-in-form-with-phone-number.avif" width="200"/></div> |
-| 002 | Forgot Password Screen   | <div align="center"><img src="./challenges/day-002-forget-password-screen/screenshot-forget-password.png" width="200"/></div> |
-| 003 | Confirm Code Screen      | <div align="center"><img src="./challenges/day-003-confirm-code-screen/screenshot-confirmation_form.avif" width="200"/></div> |
-| 004 | Coming Soon...           |  |
+| Day | Title | Preview |
+| :-: | :-- | :-: |
+| 001 | Login Screen | <img src="./challenges/day-001-login-screen/screenshot-sign-in-form-with-phone-number.avif" width="200"/> |
+| 002 | Forgot Password Screen | <img src="./challenges/day-002-forget-password-screen/screenshot-forget-password.png" width="200"/> |
+| 003 | Confirm Code Screen | <img src="./challenges/day-003-confirm-code-screen/screenshot-confirmation_form.avif" width="200"/> |
 
 ---
 
 ## 🛠️ Tech Stack
-- React Native (Expo)
-- TailwindCSS (optional, via `nativewind`)
-- Figma (for design references)
+- React Native
+- Expo
+- TailwindCSS (optional)
+- Figma (for designs)
 
 ---
 
-## 📂 Folder Structure
+## 📌 Folder Structure
+- `challenges/day-xxx-title/`
+  - `App.js` — Source code
+  - `design.png` — Screenshot of the design
+  - `README.md` — Notes for the day
 
+---
+
+Thanks for following along! ✨
