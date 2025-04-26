@@ -19,9 +19,9 @@ Every day, I create a new mobile UI, sharpen my skills, and push the limits of b
 
 | Day  | Title                  | Preview |
 |:---:|:-----------------------:|:-------:|
-| 001 | Login Screen             | ![Login Screen](./challenges/day-001-login-screen/screenshot-sign-in-form-with-phone-number.avif) |
-| 002 | Forgot Password Screen   | ![Forgot Password](./challenges/day-002-forget-password-screen/screenshot-forget-password.png) |
-| 003 | Confirm Code Screen      | ![Confirm Code](./challenges/day-003-confirm-code-screen/screenshot-confirmation_form.avif) |
+| 001 | Login Screen             | <div align="center"><img src="./challenges/day-001-login-screen/screenshot-sign-in-form-with-phone-number.avif" width="200"/></div> |
+| 002 | Forgot Password Screen   | <div align="center"><img src="./challenges/day-002-forget-password-screen/screenshot-forget-password.png" width="200"/></div> |
+| 003 | Confirm Code Screen      | <div align="center"><img src="./challenges/day-003-confirm-code-screen/screenshot-confirmation_form.avif" width="200"/></div> |
 | 004 | Coming Soon...           |  |
 
 ---
